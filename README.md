@@ -1,13 +1,13 @@
 
 # Fitness Pro
 
-> Plateforme de gestion et d’accompagnement sportif avec intégration d’IA
+> Plateforme d'une salle de sport  avec intégration d’IA
 
 ---
 
 ## Présentation
 
-Fitness Pro est une application web moderne dédiée à la gestion de salles de sport, l’accompagnement des membres, la gestion des coachs et des administrateurs, et l’optimisation de l’expérience utilisateur grâce à l’intelligence artificielle. Elle propose un dashboard complet, un système d’authentification sécurisé, un chat, et des outils d’analyse avancés.
+Fitness Pro est une application web moderne dédiée à la gestion de salles de sport, l’accompagnement des membres et des administrateurs, et l’optimisation de l’expérience utilisateur grâce à l’intelligence artificielle. Elle propose un dashboard complet, un système d’authentification sécurisé, un chat, et des outils d’analyse avancés.
 
 ## Fonctionnalités principales
 
