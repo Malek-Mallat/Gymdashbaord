@@ -14,10 +14,9 @@ Fitness Pro est une application web moderne dédiée à la gestion de salles de 
 - Gestion des membres (inscription, modification, suppression)
 - Gestion des coachs et administrateurs
 - Dashboard interactif pour admins, coachs et utilisateurs
-- Système de chat intégré
 - Gestion des contacts et demandes
 - Intégration d’un assistant virtuel IA dans la génération et gestion de plans d’entraînement et plan de nutrition 
-- Statistiques et visualisations (Recharts)
+
 
 
 ## Stack technique
